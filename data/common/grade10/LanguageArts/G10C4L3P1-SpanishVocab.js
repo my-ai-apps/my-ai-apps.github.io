@@ -1,6 +1,110 @@
-
-/*!
-Copyright © 2024 Saisha Pandit. All Rights Reserved.
-Unauthorized use, modification, or distribution is strictly prohibited.
-*/
-function _0x5af0(_0x24a4fe,_0x30884a){var _0x5d0c47=_0x5d0c();return _0x5af0=function(_0x5af055,_0x219b33){_0x5af055=_0x5af055-0x190;var _0x3248f4=_0x5d0c47[_0x5af055];return _0x3248f4;},_0x5af0(_0x24a4fe,_0x30884a);}var _0x587a85=_0x5af0;(function(_0x1f1125,_0x447d77){var _0x3b3cb9=_0x5af0,_0x3e3526=_0x1f1125();while(!![]){try{var _0x4edda1=parseInt(_0x3b3cb9(0x1d0))/0x1*(parseInt(_0x3b3cb9(0x1c8))/0x2)+parseInt(_0x3b3cb9(0x1ba))/0x3+-parseInt(_0x3b3cb9(0x19e))/0x4*(parseInt(_0x3b3cb9(0x1bc))/0x5)+parseInt(_0x3b3cb9(0x1c5))/0x6*(-parseInt(_0x3b3cb9(0x1b6))/0x7)+parseInt(_0x3b3cb9(0x1ac))/0x8+-parseInt(_0x3b3cb9(0x1c0))/0x9+parseInt(_0x3b3cb9(0x1a5))/0xa;if(_0x4edda1===_0x447d77)break;else _0x3e3526['push'](_0x3e3526['shift']());}catch(_0x4b4b26){_0x3e3526['push'](_0x3e3526['shift']());}}}(_0x5d0c,0xcff5a));function _0x5d0c(){var _0x643356=['enseñar','to\x20understand','to\x20teach','aire','chair','4AFWHrW','sun','leer','apple','car','puerta','dog','18089590CjZbki','comprar','gato','carro','Spanish\x20Chapter\x204','comprender','pupitre','4691824hiYxoH','pluma','escuela','cat','school','aprender','pera','hospital','escribir','book','7ixHpbh','casa','caballo','mesa','3696699eBRFjs','bicicleta','8147285aFIfyD','avión','dibujar','homework','6504939RIIxqL','estrella','libro','notebook','sol','6922158mIctkR','pen','manzana','2ZAaaHc','Spanish\x20Chapter\x204:\x20Lesson\x203','tarea','fuego','to\x20write','to\x20learn','Language\x20Arts','maestro','730053uImlbs','bailar','cuaderno','perro','to\x20study','agua','silla','estudiar','pájaro','G10Spanish-L3-CH4-1','water','hablar'];_0x5d0c=function(){return _0x643356;};return _0x5d0c();}export default{'id':_0x587a85(0x196),'grade':0xa,'subject':_0x587a85(0x1ce),'title':_0x587a85(0x1a9),'timeLimit':0x1e,'topic':_0x587a85(0x1c9),'questions':[{'question':_0x587a85(0x1a1),'options':[_0x587a85(0x1c7),_0x587a85(0x1b2),'naranja'],'correctAnswer':_0x587a85(0x1c7)},{'question':_0x587a85(0x1a4),'options':[_0x587a85(0x1a7),_0x587a85(0x190),_0x587a85(0x1b8)],'correctAnswer':_0x587a85(0x190)},{'question':'house','options':[_0x587a85(0x1b7),_0x587a85(0x1ae),_0x587a85(0x1a8)],'correctAnswer':'casa'},{'question':_0x587a85(0x197),'options':[_0x587a85(0x192),_0x587a85(0x1cb),_0x587a85(0x19c)],'correctAnswer':'agua'},{'question':_0x587a85(0x1b5),'options':[_0x587a85(0x1b9),'libro',_0x587a85(0x193)],'correctAnswer':_0x587a85(0x1c2)},{'question':_0x587a85(0x1a2),'options':[_0x587a85(0x1a8),_0x587a85(0x1bb),_0x587a85(0x1bd)],'correctAnswer':_0x587a85(0x1a8)},{'question':_0x587a85(0x1b0),'options':[_0x587a85(0x1b3),_0x587a85(0x1b7),_0x587a85(0x1ae)],'correctAnswer':_0x587a85(0x1ae)},{'question':_0x587a85(0x19f),'options':[_0x587a85(0x1c4),'luna',_0x587a85(0x1c1)],'correctAnswer':_0x587a85(0x1c4)},{'question':_0x587a85(0x1af),'options':[_0x587a85(0x190),'gato',_0x587a85(0x195)],'correctAnswer':'gato'},{'question':_0x587a85(0x19d),'options':['silla',_0x587a85(0x1b9),_0x587a85(0x1a3)],'correctAnswer':_0x587a85(0x193)},{'question':_0x587a85(0x1cd),'options':[_0x587a85(0x1b1),'comprender',_0x587a85(0x1b4)],'correctAnswer':_0x587a85(0x1b1)},{'question':_0x587a85(0x19a),'options':[_0x587a85(0x1a6),_0x587a85(0x1a0),'comprender'],'correctAnswer':_0x587a85(0x1aa)},{'question':_0x587a85(0x19b),'options':[_0x587a85(0x199),'dibujar',_0x587a85(0x1d1)],'correctAnswer':'enseñar'},{'question':'student','options':['profesor',_0x587a85(0x1cf),'estudiante'],'correctAnswer':'estudiante'},{'question':_0x587a85(0x1bf),'options':[_0x587a85(0x1ca),'escribir','escuchar'],'correctAnswer':_0x587a85(0x1ca)},{'question':_0x587a85(0x191),'options':['escuchar',_0x587a85(0x194),'comer'],'correctAnswer':_0x587a85(0x194)},{'question':'to\x20read','options':['leer',_0x587a85(0x198),_0x587a85(0x1d1)],'correctAnswer':_0x587a85(0x1a0)},{'question':_0x587a85(0x1cc),'options':[_0x587a85(0x1b4),_0x587a85(0x1be),_0x587a85(0x1b1)],'correctAnswer':_0x587a85(0x1b4)},{'question':_0x587a85(0x1c6),'options':['pluma',_0x587a85(0x1d2),_0x587a85(0x1c2)],'correctAnswer':_0x587a85(0x1ad)},{'question':_0x587a85(0x1c3),'options':[_0x587a85(0x1c2),_0x587a85(0x1d2),_0x587a85(0x1ab)],'correctAnswer':_0x587a85(0x1d2)}]};
+{
+  "id": "G10Spanish-L3-CH4-1",
+  "grade": 10,
+  "subject": "Language Arts",
+  "title": "Spanish Chapter 4",
+  "timeLimit": 30,
+  "topic": "Spanish Chapter 4: Lesson 3",
+  "questions": [
+    {
+      "question": "apple",
+      "options": ["manzana", "pera", "naranja"],
+      "correctAnswer": "manzana"
+    },
+    {
+      "question": "dog",
+      "options": ["gato", "perro", "caballo"],
+      "correctAnswer": "perro"
+    },
+    {
+      "question": "house",
+      "options": ["casa", "escuela", "carro"],
+      "correctAnswer": "casa"
+    },
+    {
+      "question": "water",
+      "options": ["agua", "fuego", "aire"],
+      "correctAnswer": "agua"
+    },
+    {
+      "question": "book",
+      "options": ["mesa", "libro", "silla"],
+      "correctAnswer": "libro"
+    },
+    {
+      "question": "car",
+      "options": ["carro", "bicicleta", "avión"],
+      "correctAnswer": "carro"
+    },
+    {
+      "question": "school",
+      "options": ["hospital", "casa", "escuela"],
+      "correctAnswer": "escuela"
+    },
+    {
+      "question": "sun",
+      "options": ["sol", "luna", "estrella"],
+      "correctAnswer": "sol"
+    },
+    {
+      "question": "cat",
+      "options": ["perro", "gato", "pájaro"],
+      "correctAnswer": "gato"
+    },
+    {
+      "question": "chair",
+      "options": ["silla", "mesa", "puerta"],
+      "correctAnswer": "silla"
+    },
+    {
+      "question": "to learn",
+      "options": ["aprender", "comprender", "escribir"],
+      "correctAnswer": "aprender"
+    },
+    {
+      "question": "to understand",
+      "options": ["comprar", "leer", "comprender"],
+      "correctAnswer": "comprender"
+    },
+    {
+      "question": "to teach",
+      "options": ["enseñar", "dibujar", "bailar"],
+      "correctAnswer": "enseñar"
+    },
+    {
+      "question": "student",
+      "options": ["profesor", "maestro", "estudiante"],
+      "correctAnswer": "estudiante"
+    },
+    {
+      "question": "homework",
+      "options": ["tarea", "escribir", "escuchar"],
+      "correctAnswer": "tarea"
+    },
+    {
+      "question": "to study",
+      "options": ["escuchar", "estudiar", "comer"],
+      "correctAnswer": "estudiar"
+    },
+    {
+      "question": "to read",
+      "options": ["leer", "hablar", "bailar"],
+      "correctAnswer": "leer"
+    },
+    {
+      "question": "to write",
+      "options": ["escribir", "dibujar", "aprender"],
+      "correctAnswer": "escribir"
+    },
+    {
+      "question": "pen",
+      "options": ["pluma", "cuaderno", "libro"],
+      "correctAnswer": "pluma"
+    },
+    {
+      "question": "notebook",
+      "options": ["libro", "cuaderno", "pupitre"],
+      "correctAnswer": "cuaderno"
+    }
+  ]
+}

@@ -1,6 +1,155 @@
-
-/*!
-Copyright © 2024 Saisha Pandit. All Rights Reserved.
-Unauthorized use, modification, or distribution is strictly prohibited.
-*/
-var _0x474d92=_0x5b20;function _0x5b20(_0x4a2ab8,_0xb1e887){var _0x1b77c9=_0x1b77();return _0x5b20=function(_0x5b2028,_0x8d9e87){_0x5b2028=_0x5b2028-0x1c6;var _0x2e8cd4=_0x1b77c9[_0x5b2028];return _0x2e8cd4;},_0x5b20(_0x4a2ab8,_0xb1e887);}(function(_0x266a1d,_0x13aa8d){var _0x388fa7=_0x5b20,_0x1fe31c=_0x266a1d();while(!![]){try{var _0x41c396=parseInt(_0x388fa7(0x1ec))/0x1+parseInt(_0x388fa7(0x1e0))/0x2*(parseInt(_0x388fa7(0x1f2))/0x3)+parseInt(_0x388fa7(0x1d3))/0x4*(parseInt(_0x388fa7(0x1c9))/0x5)+parseInt(_0x388fa7(0x1e9))/0x6*(parseInt(_0x388fa7(0x1e3))/0x7)+-parseInt(_0x388fa7(0x205))/0x8*(parseInt(_0x388fa7(0x208))/0x9)+parseInt(_0x388fa7(0x1cb))/0xa+-parseInt(_0x388fa7(0x1e8))/0xb;if(_0x41c396===_0x13aa8d)break;else _0x1fe31c['push'](_0x1fe31c['shift']());}catch(_0x51ca9c){_0x1fe31c['push'](_0x1fe31c['shift']());}}}(_0x1b77,0xaec97));function _0x1b77(){var _0x19c1d0=['la\x20planta','planet','road','822939yAnVFi','cow','la\x20hierba','fish','Spanish\x20Chapter\x204\x20-\x20Part\x201','valley','sea','sheep','hill','el\x20desierto','el\x20sol','path','grade-10-spanish-11132024-part1','volcano','el\x20sendero','la\x20luna','cat','moon','jungle','304sifpbr','la\x20piedra','el\x20ave','66717lBSSBa','sky','desert','cloud','fog','el\x20valle','rain','grass','star','lake','culture','science','155LzANeF','la\x20flor','1069100rqFdOs','la\x20selva','la\x20estrella','stone','el\x20río','sun','rock','el\x20animal','144604NhwcBh','la\x20tierra','bush','el\x20pez','trail','Language\x20Arts','bird','crater','dog','flower','la\x20jungla','plant','land','8OwsBqr','la\x20vaca','mountain','3409AiFNzk','el\x20perro','soil','animal','forest','22344003FvzNCU','5874joBdcC','la\x20naturaleza','tree','227278stRqIk','el\x20pájaro','river'];_0x1b77=function(){return _0x19c1d0;};return _0x1b77();}export default{'id':_0x474d92(0x1fe),'grade':0xa,'subject':_0x474d92(0x1d8),'title':_0x474d92(0x1f6),'timeLimit':0x1e,'topic':_0x474d92(0x1fe),'questions':[{'question':'el\x20árbol','options':['tree','bush','grass'],'correctAnswer':_0x474d92(0x1eb)},{'question':'el\x20bosque','options':[_0x474d92(0x1e7),_0x474d92(0x20a),_0x474d92(0x1c6)],'correctAnswer':_0x474d92(0x1e7)},{'question':'el\x20cielo','options':[_0x474d92(0x209),'cloud','sea'],'correctAnswer':_0x474d92(0x209)},{'question':'el\x20cráter','options':[_0x474d92(0x1da),_0x474d92(0x1f7),'hill'],'correctAnswer':_0x474d92(0x1da)},{'question':_0x474d92(0x1fb),'options':[_0x474d92(0x20a),'ocean',_0x474d92(0x1e2)],'correctAnswer':_0x474d92(0x20a)},{'question':_0x474d92(0x1cd),'options':[_0x474d92(0x210),_0x474d92(0x203),'sun'],'correctAnswer':_0x474d92(0x210)},{'question':_0x474d92(0x1f4),'options':['grass',_0x474d92(0x1eb),'plant'],'correctAnswer':_0x474d92(0x20f)},{'question':_0x474d92(0x1ca),'options':[_0x474d92(0x1dc),_0x474d92(0x1eb),'plant'],'correctAnswer':_0x474d92(0x1dc)},{'question':'el\x20lago','options':[_0x474d92(0x1c6),_0x474d92(0x1ee),'ocean'],'correctAnswer':_0x474d92(0x1c6)},{'question':_0x474d92(0x201),'options':[_0x474d92(0x203),_0x474d92(0x1f0),'star'],'correctAnswer':_0x474d92(0x203)},{'question':_0x474d92(0x1ea),'options':['nature',_0x474d92(0x1c7),_0x474d92(0x1c8)],'correctAnswer':'nature'},{'question':'la\x20nube','options':['cloud',_0x474d92(0x20e),_0x474d92(0x20c)],'correctAnswer':_0x474d92(0x20b)},{'question':_0x474d92(0x206),'options':[_0x474d92(0x1ce),_0x474d92(0x1d1),_0x474d92(0x1e5)],'correctAnswer':_0x474d92(0x1ce)},{'question':_0x474d92(0x1ef),'options':[_0x474d92(0x1de),_0x474d92(0x1eb),_0x474d92(0x1d5)],'correctAnswer':_0x474d92(0x1de)},{'question':_0x474d92(0x1cf),'options':['river','lake',_0x474d92(0x1f8)],'correctAnswer':_0x474d92(0x1ee)},{'question':_0x474d92(0x1cc),'options':[_0x474d92(0x204),'forest',_0x474d92(0x20a)],'correctAnswer':_0x474d92(0x204)},{'question':_0x474d92(0x1dd),'options':[_0x474d92(0x204),_0x474d92(0x1e7),'desert'],'correctAnswer':'jungle'},{'question':_0x474d92(0x1fc),'options':[_0x474d92(0x1d0),_0x474d92(0x203),_0x474d92(0x210)],'correctAnswer':_0x474d92(0x1d0)},{'question':_0x474d92(0x200),'options':['trail',_0x474d92(0x1fd),_0x474d92(0x1f1)],'correctAnswer':_0x474d92(0x1d7)},{'question':_0x474d92(0x1d4),'options':[_0x474d92(0x1df),_0x474d92(0x209),'water'],'correctAnswer':_0x474d92(0x1df)},{'question':_0x474d92(0x20d),'options':[_0x474d92(0x1f7),'hill',_0x474d92(0x1e2)],'correctAnswer':_0x474d92(0x1f7)},{'question':'el\x20volcan','options':['volcano',_0x474d92(0x1fa),_0x474d92(0x1e2)],'correctAnswer':_0x474d92(0x1ff)},{'question':_0x474d92(0x1d2),'options':[_0x474d92(0x1e6),_0x474d92(0x1de),_0x474d92(0x1d9)],'correctAnswer':_0x474d92(0x1e6)},{'question':_0x474d92(0x207),'options':[_0x474d92(0x1e6),'plant',_0x474d92(0x1d9)],'correctAnswer':'bird'},{'question':_0x474d92(0x1ed),'options':['bird',_0x474d92(0x202),_0x474d92(0x1f5)],'correctAnswer':_0x474d92(0x1d9)},{'question':'el\x20gato','options':['cat',_0x474d92(0x1db),'cow'],'correctAnswer':'cat'},{'question':_0x474d92(0x1e4),'options':[_0x474d92(0x1db),_0x474d92(0x202),_0x474d92(0x1d9)],'correctAnswer':_0x474d92(0x1db)},{'question':_0x474d92(0x1d6),'options':['fish','bird',_0x474d92(0x202)],'correctAnswer':_0x474d92(0x1f5)},{'question':_0x474d92(0x1e1),'options':['cow','goat',_0x474d92(0x1f9)],'correctAnswer':_0x474d92(0x1f3)}]};
+{
+  "id": "grade-10-spanish-11132024-part1",
+  "grade": 10,
+  "subject": "Language Arts",
+  "title": "Spanish Chapter 4 - Part 1",
+  "timeLimit": 30,
+  "topic": "grade-10-spanish-11132024-part1",
+  "questions": [
+    {
+      "question": "el árbol",
+      "options": ["tree", "bush", "grass"],
+      "correctAnswer": "tree"
+    },
+    {
+      "question": "el bosque",
+      "options": ["forest", "desert", "lake"],
+      "correctAnswer": "forest"
+    },
+    {
+      "question": "el cielo",
+      "options": ["sky", "cloud", "sea"],
+      "correctAnswer": "sky"
+    },
+    {
+      "question": "el cráter",
+      "options": ["crater", "valley", "hill"],
+      "correctAnswer": "crater"
+    },
+    {
+      "question": "el desierto",
+      "options": ["desert", "ocean", "mountain"],
+      "correctAnswer": "desert"
+    },
+    {
+      "question": "la estrella",
+      "options": ["star", "moon", "sun"],
+      "correctAnswer": "star"
+    },
+    {
+      "question": "la hierba",
+      "options": ["grass", "tree", "plant"],
+      "correctAnswer": "grass"
+    },
+    {
+      "question": "la flor",
+      "options": ["flower", "tree", "plant"],
+      "correctAnswer": "flower"
+    },
+    {
+      "question": "el lago",
+      "options": ["lake", "river", "ocean"],
+      "correctAnswer": "lake"
+    },
+    {
+      "question": "la luna",
+      "options": ["moon", "planet", "star"],
+      "correctAnswer": "moon"
+    },
+    {
+      "question": "la naturaleza",
+      "options": ["nature", "culture", "science"],
+      "correctAnswer": "nature"
+    },
+    {
+      "question": "la nube",
+      "options": ["cloud", "rain", "fog"],
+      "correctAnswer": "cloud"
+    },
+    {
+      "question": "la piedra",
+      "options": ["stone", "rock", "soil"],
+      "correctAnswer": "stone"
+    },
+    {
+      "question": "la planta",
+      "options": ["plant", "tree", "bush"],
+      "correctAnswer": "plant"
+    },
+    {
+      "question": "el río",
+      "options": ["river", "lake", "sea"],
+      "correctAnswer": "river"
+    },
+    {
+      "question": "la selva",
+      "options": ["jungle", "forest", "desert"],
+      "correctAnswer": "jungle"
+    },
+    {
+      "question": "la jungla",
+      "options": ["jungle", "forest", "desert"],
+      "correctAnswer": "jungle"
+    },
+    {
+      "question": "el sol",
+      "options": ["sun", "moon", "star"],
+      "correctAnswer": "sun"
+    },
+    {
+      "question": "el sendero",
+      "options": ["trail", "path", "road"],
+      "correctAnswer": "trail"
+    },
+    {
+      "question": "la tierra",
+      "options": ["land", "sky", "water"],
+      "correctAnswer": "land"
+    },
+    {
+      "question": "el valle",
+      "options": ["valley", "hill", "mountain"],
+      "correctAnswer": "valley"
+    },
+    {
+      "question": "el volcan",
+      "options": ["volcano", "hill", "mountain"],
+      "correctAnswer": "volcano"
+    },
+    {
+      "question": "el animal",
+      "options": ["animal", "plant", "bird"],
+      "correctAnswer": "animal"
+    },
+    {
+      "question": "el ave",
+      "options": ["animal", "plant", "bird"],
+      "correctAnswer": "bird"
+    },
+    {
+      "question": "el pájaro",
+      "options": ["bird", "cat", "fish"],
+      "correctAnswer": "bird"
+    },
+    {
+      "question": "el gato",
+      "options": ["cat", "dog", "cow"],
+      "correctAnswer": "cat"
+    },
+    {
+      "question": "el perro",
+      "options": ["dog", "cat", "bird"],
+      "correctAnswer": "dog"
+    },
+    {
+      "question": "el pez",
+      "options": ["fish", "bird", "cat"],
+      "correctAnswer": "fish"
+    },
+    {
+      "question": "la vaca",
+      "options": ["cow", "goat", "sheep"],
+      "correctAnswer": "cow"
+    }
+  ]
+}

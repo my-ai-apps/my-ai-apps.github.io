@@ -1,6 +1,100 @@
-
-/*!
-Copyright © 2024 Saisha Pandit. All Rights Reserved.
-Unauthorized use, modification, or distribution is strictly prohibited.
-*/
-function _0x4e33(){var _0x4b00df=['la\x20extinción','glass','puro','22BvFDmE','society','la\x20ley','cloud','el\x20peligro','170mpfuhV','law','ecotourism','danger','407148IshdKq','la\x20lata','deforestation','el\x20vidrio','government','855234xFVjCc','metal','2742aQzGUA','la\x20energía','population','community','conservation','pollution','rain','8414MeOiSq','adventure','pure','policy','result','risk','92AwhHRl','la\x20deforestación','problem','can','clean','safety','ecology','Language\x20Arts','power','tourism','la\x20ecología','extinction','5263704nyUAAv','Spanish\x20Chapter\x204\x20-\x20Part\x202','water','natural\x20resource','el\x20reciclaje','la\x20contaminación','nature','box','solution','group','recycling','177830lCPLEd','150948UrJWdZ','la\x20solución','plastic','material','37678utVLck','energy','geology','grade-10-spanish-11132024-part2','el\x20recurso\x20natural','207yGyTGf'];_0x4e33=function(){return _0x4b00df;};return _0x4e33();}var _0x5af936=_0x2980;function _0x2980(_0x528276,_0x1bd649){var _0x4e3362=_0x4e33();return _0x2980=function(_0x29805b,_0x3199a0){_0x29805b=_0x29805b-0x11d;var _0xbae75e=_0x4e3362[_0x29805b];return _0xbae75e;},_0x2980(_0x528276,_0x1bd649);}(function(_0x14e66e,_0x5f5ce1){var _0x33293a=_0x2980,_0x27f1c4=_0x14e66e();while(!![]){try{var _0x4d8d10=parseInt(_0x33293a(0x135))/0x1*(parseInt(_0x33293a(0x151))/0x2)+parseInt(_0x33293a(0x126))/0x3+-parseInt(_0x33293a(0x14d))/0x4*(parseInt(_0x33293a(0x11d))/0x5)+-parseInt(_0x33293a(0x128))/0x6*(-parseInt(_0x33293a(0x12f))/0x7)+-parseInt(_0x33293a(0x141))/0x8+parseInt(_0x33293a(0x156))/0x9*(parseInt(_0x33293a(0x14c))/0xa)+parseInt(_0x33293a(0x15a))/0xb*(-parseInt(_0x33293a(0x121))/0xc);if(_0x4d8d10===_0x5f5ce1)break;else _0x27f1c4['push'](_0x27f1c4['shift']());}catch(_0x2efc86){_0x27f1c4['push'](_0x27f1c4['shift']());}}}(_0x4e33,0xec41e));export default{'id':_0x5af936(0x154),'grade':0xa,'subject':_0x5af936(0x13c),'title':_0x5af936(0x142),'timeLimit':0x1e,'topic':'grade-10-spanish-11132024-part2','questions':[{'question':'la\x20conservación','options':[_0x5af936(0x12c),_0x5af936(0x12d),_0x5af936(0x14b)],'correctAnswer':'conservation'},{'question':_0x5af936(0x146),'options':[_0x5af936(0x12d),_0x5af936(0x12c),'nature'],'correctAnswer':_0x5af936(0x12d)},{'question':_0x5af936(0x136),'options':[_0x5af936(0x123),_0x5af936(0x14b),'pollution'],'correctAnswer':'deforestation'},{'question':_0x5af936(0x13f),'options':[_0x5af936(0x13b),'biology',_0x5af936(0x153)],'correctAnswer':_0x5af936(0x13b)},{'question':'el\x20ecoturismo','options':[_0x5af936(0x11f),_0x5af936(0x13e),_0x5af936(0x130)],'correctAnswer':_0x5af936(0x11f)},{'question':_0x5af936(0x129),'options':[_0x5af936(0x152),_0x5af936(0x13d),'electricity'],'correctAnswer':_0x5af936(0x152)},{'question':_0x5af936(0x157),'options':['extinction',_0x5af936(0x12c),'habitat'],'correctAnswer':_0x5af936(0x140)},{'question':'el\x20gobierno','options':[_0x5af936(0x125),'community',_0x5af936(0x15b)],'correctAnswer':_0x5af936(0x125)},{'question':_0x5af936(0x122),'options':[_0x5af936(0x138),'bottle',_0x5af936(0x148)],'correctAnswer':_0x5af936(0x138)},{'question':_0x5af936(0x15c),'options':['law','rule',_0x5af936(0x132)],'correctAnswer':_0x5af936(0x11e)},{'question':'la\x20lluvia','options':[_0x5af936(0x12e),_0x5af936(0x15d),_0x5af936(0x143)],'correctAnswer':_0x5af936(0x12e)},{'question':_0x5af936(0x15e),'options':[_0x5af936(0x120),_0x5af936(0x13a),_0x5af936(0x134)],'correctAnswer':_0x5af936(0x120)},{'question':'la\x20población','options':['population',_0x5af936(0x12b),_0x5af936(0x14a)],'correctAnswer':_0x5af936(0x12a)},{'question':_0x5af936(0x145),'options':[_0x5af936(0x14b),'pollution',_0x5af936(0x12c)],'correctAnswer':_0x5af936(0x14b)},{'question':_0x5af936(0x155),'options':[_0x5af936(0x144),_0x5af936(0x147),_0x5af936(0x150)],'correctAnswer':_0x5af936(0x144)},{'question':_0x5af936(0x14e),'options':[_0x5af936(0x149),_0x5af936(0x137),_0x5af936(0x133)],'correctAnswer':_0x5af936(0x149)},{'question':_0x5af936(0x124),'options':[_0x5af936(0x158),_0x5af936(0x127),_0x5af936(0x14f)],'correctAnswer':_0x5af936(0x158)},{'question':_0x5af936(0x159),'options':[_0x5af936(0x131),_0x5af936(0x139),'natural'],'correctAnswer':_0x5af936(0x131)}]};
+{
+  "id": "grade-10-spanish-11132024-part2",
+  "grade": 10,
+  "subject": "Language Arts",
+  "title": "Spanish Chapter 4 - Part 2",
+  "timeLimit": 30,
+  "topic": "grade-10-spanish-11132024-part2",
+  "questions": [
+    {
+      "question": "la conservación",
+      "options": ["conservation", "pollution", "recycling"],
+      "correctAnswer": "conservation"
+    },
+    {
+      "question": "la contaminación",
+      "options": ["pollution", "conservation", "nature"],
+      "correctAnswer": "pollution"
+    },
+    {
+      "question": "la deforestación",
+      "options": ["deforestation", "recycling", "pollution"],
+      "correctAnswer": "deforestation"
+    },
+    {
+      "question": "la ecología",
+      "options": ["ecology", "biology", "geology"],
+      "correctAnswer": "ecology"
+    },
+    {
+      "question": "el ecoturismo",
+      "options": ["ecotourism", "tourism", "adventure"],
+      "correctAnswer": "ecotourism"
+    },
+    {
+      "question": "la energía",
+      "options": ["energy", "power", "electricity"],
+      "correctAnswer": "energy"
+    },
+    {
+      "question": "la extinción",
+      "options": ["extinction", "conservation", "habitat"],
+      "correctAnswer": "extinction"
+    },
+    {
+      "question": "el gobierno",
+      "options": ["government", "community", "society"],
+      "correctAnswer": "government"
+    },
+    {
+      "question": "la lata",
+      "options": ["can", "bottle", "box"],
+      "correctAnswer": "can"
+    },
+    {
+      "question": "la ley",
+      "options": ["law", "rule", "policy"],
+      "correctAnswer": "law"
+    },
+    {
+      "question": "la lluvia",
+      "options": ["rain", "cloud", "water"],
+      "correctAnswer": "rain"
+    },
+    {
+      "question": "el peligro",
+      "options": ["danger", "safety", "risk"],
+      "correctAnswer": "danger"
+    },
+    {
+      "question": "la población",
+      "options": ["population", "community", "group"],
+      "correctAnswer": "population"
+    },
+    {
+      "question": "el reciclaje",
+      "options": ["recycling", "pollution", "conservation"],
+      "correctAnswer": "recycling"
+    },
+    {
+      "question": "el recurso natural",
+      "options": ["natural resource", "nature", "material"],
+      "correctAnswer": "natural resource"
+    },
+    {
+      "question": "la solución",
+      "options": ["solution", "problem", "result"],
+      "correctAnswer": "solution"
+    },
+    {
+      "question": "el vidrio",
+      "options": ["glass", "metal", "plastic"],
+      "correctAnswer": "glass"
+    },
+    {
+      "question": "puro",
+      "options": ["pure", "clean", "natural"],
+      "correctAnswer": "pure"
+    }
+  ]
+}
