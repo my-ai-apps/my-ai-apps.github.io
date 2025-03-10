@@ -1,0 +1,5 @@
+/*!
+Copyright © 2024 Saisha Pandit. All Rights Reserved.
+Unauthorized use, modification, or distribution is strictly prohibited.
+*/
+body{font-family:Arial,sans-serif;margin:0;padding:0;background-color:#f0f0f0}.study-modes{display:grid;grid-template-columns:repeat(auto-fit,minmax(150px,1fr));gap:20px;margin-bottom:20px}.study-mode{background-color:#fff;border-radius:10px;padding:20px;text-align:center;box-shadow:0 2px 5px rgba(0,0,0,.1);cursor:pointer;transition:transform .3s ease}.study-mode:hover{transform:translateY(-5px)}.study-mode i{font-size:24px;margin-bottom:10px}.choose-study-mode{background-color:#4257b2;color:#fff;border:none;padding:10px 20px;border-radius:5px;cursor:pointer;width:100%}.navigation{display:flex;justify-content:space-between;margin-top:20px}
