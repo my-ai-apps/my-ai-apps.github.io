@@ -1,11 +1,11 @@
 {
   "quizFiles": [
-    "/data/common/grade10/LanguageArts/G10C4L3P1-SpanishVocab.js",
-    "/data/common/grade10/LanguageArts/G10EnglishToSpanish-P1.js",
-    "/data/common/grade10/LanguageArts/G10EnglishToSpanish-P2.js",
-    "/data/common/grade10/LanguageArts/G10SpanishCH4-1.js",
-    "/data/common/grade10/LanguageArts/G10SpanishtoEnglish-P1.js",
-    "/data/common/grade10/LanguageArts/G10SpanishtoEnglish-P2.js",
-    "/data/common/misc/countryFlags.js"
+    "/data/common/grade10/LanguageArts/G10C4L3P1-SpanishVocab.json",
+    "/data/common/grade10/LanguageArts/G10EnglishToSpanish-P1.json",
+    "/data/common/grade10/LanguageArts/G10EnglishToSpanish-P2.json",
+    "/data/common/grade10/LanguageArts/G10SpanishCH4-1.json",
+    "/data/common/grade10/LanguageArts/G10SpanishtoEnglish-P1.json",
+    "/data/common/grade10/LanguageArts/G10SpanishtoEnglish-P2.json",
+    "/data/common/misc/countryFlags.json"
   ]
 }
